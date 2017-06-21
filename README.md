@@ -1,0 +1,2 @@
+# JkLibrary
+Some usefull class.
